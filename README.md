@@ -5,7 +5,7 @@ I broke down the revenue from the different companies into states to find which 
 ![image](https://user-images.githubusercontent.com/57400033/120901460-eaad1780-c5ef-11eb-8420-470d4864fe5b.png)
 
 The State of California housed the most revenue generating companies. 
-Therefore as an investor what industries in California should I be looking to invest in?
+Therefore as an investor what industries in California should I be looking to invest in?</br>
 ![image](https://user-images.githubusercontent.com/57400033/120901468-f26cbc00-c5ef-11eb-9bde-2ad058fadf12.png)
 
 We find that the top 5 revenue generating industries in California are:
