@@ -13,7 +13,7 @@ We find that the top 5 revenue generating industries in California are:
 2.	Consumer Products and Services
 3.	Software
 4.	Energy
-5.	Financial Services</br>
+5.	Financial Services
 Next we examine the cities that these five industries focused most on as their bases and the growth of these industries.</br>
 ![image](https://user-images.githubusercontent.com/57400033/120901474-f8629d00-c5ef-11eb-9667-cd53c60a653a.png)
 
